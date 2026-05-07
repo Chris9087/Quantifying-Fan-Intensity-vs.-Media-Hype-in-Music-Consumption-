@@ -1,0 +1,9 @@
+DMA,geo_code,population,lat,lon,kendrick_avg_interest,cole_avg_interest,kendrick_per_1m,cole_per_1m,diff_per_1m,leader
+Los Angeles,US-CA-803,13201000,34.05,-118.24,17.83,14.03,1.35,1.06,0.29,Kendrick
+Raleigh-Durham,US-NC-560,2079000,35.78,-78.64,10.83,15.62,5.21,7.51,-2.3,Cole
+New York,US-NY-501,19979000,40.71,-74.01,17.45,15.31,0.87,0.77,0.1,Kendrick
+Atlanta,US-GA-524,6145000,33.75,-84.39,16.69,14.07,2.72,2.29,0.43,Kendrick
+Chicago,US-IL-602,9459000,41.88,-87.63,15.45,12.79,1.63,1.35,0.28,Kendrick
+Houston,US-TX-618,7123000,29.76,-95.37,14.97,14.83,2.1,2.08,0.02,Kendrick
+Miami-Ft. Lauderdale,US-FL-528,6139000,25.76,-80.19,12.62,6.86,2.06,1.12,0.94,Kendrick
+Seattle-Tacoma,US-WA-819,4019000,47.61,-122.33,15.31,9.86,3.81,2.45,1.36,Kendrick
